@@ -1,0 +1,4 @@
+IdSocio,Monto,IdMedioPago,EsReembolso,EsPagoCuenta
+1,5000,1,0,0
+2,3000,2,1,0
+3,2000,3,0,1

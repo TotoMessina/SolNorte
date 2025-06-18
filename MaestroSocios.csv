@@ -1,0 +1,4 @@
+DNI,Nombre,Apellido,Email,FechaNacimiento,Telefono,TelefonoEmergencia,ObraSocial,NumeroSocioObraSocial,Categoria
+12345678,Ana,Pérez,ana@example.com,2001-03-15,1122334455,1199887766,OSDE,OSD1001,Mayor
+23456789,Luis,García,luis@example.com,1985-07-20,1133445566,1188776655,SwissMedical,SWM2020,Mayor
+34567890,Carla,López,carla@example.com,2010-11-05,1144556677,1177665544,Galeno,GAL5544,Menor
